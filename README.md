@@ -1,1 +1,9 @@
-# adminhub
+### 功能
+- GitHub热门项目
+- PS4游戏
+- FE知识架构
+  - Vue栈
+    - Vue.js 
+    - Vuex 
+    - Vue-router
+  - React栈
